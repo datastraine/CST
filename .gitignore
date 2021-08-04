@@ -7,3 +7,4 @@ env.py
 IGNORE*
 __pycache__
 *.xlsx
+*.txt
